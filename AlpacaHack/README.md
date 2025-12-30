@@ -1,6 +1,7 @@
 # AlpacaHack Daily
 
 ## Crypto
+- [one-p-rsa](./20251229_one-p-rsa/)
 
 ## Pwn
 - [simpleoverwrite](./20251227_simpleoverwrite/)
