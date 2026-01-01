@@ -3,6 +3,7 @@
 ## Crypto
 - [one-p-rsa](./20251229_one-p-rsa/)
 - [RGB](./20251230_RGB/)
+- [super-tomato](./20250102_super-tomato/)
 
 ## Pwn
 - [simpleoverwrite](./20251227_simpleoverwrite/)
