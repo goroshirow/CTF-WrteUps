@@ -4,6 +4,7 @@
 - [one-p-rsa](./20251229_one-p-rsa/)
 - [RGB](./20251230_RGB/)
 - [super-tomato](./20250102_super-tomato/)
+- [Square RSA](./20260106_Square%20RSA/)
 
 ## Pwn
 - [simpleoverwrite](./20251227_simpleoverwrite/)
@@ -19,3 +20,4 @@
 ## Misc
 - [cat3](./20251224_cat3/)
 - [108](./20251231_108/)
+- [jailiaj](./20260106_jailiaj/)
