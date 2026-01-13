@@ -8,6 +8,7 @@
 
 ## Pwn
 - [simpleoverwrite](./20251227_simpleoverwrite/)
+- [Basic Buffer Overflow](./20260112_Basic%20Buffer%20Overflow/)
 
 ## Rev
 - [Useful Machine](./20251226_Useful%20Machine/)
