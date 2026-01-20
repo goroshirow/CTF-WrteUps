@@ -15,6 +15,7 @@
 - [cha-ll-enge](./20251228_cha-ll-enge/)
 - [Ruby Flag Checker](./20260103_Ruby%20Flag%20Checker/)
 - [crazython](./20260111_crazython/)
+- [system-v](./20260120_system-v/)
 
 ## Web
 - [Xmas Login](20251225_Xmas%20Login/)
