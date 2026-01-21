@@ -26,3 +26,4 @@
 - [cat3](./20251224_cat3/)
 - [108](./20251231_108/)
 - [jailiaj](./20260106_jailiaj/)
+- [dockerstack](./20260121_dockerstack/)
