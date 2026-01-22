@@ -21,6 +21,7 @@
 - [Xmas Login](20251225_Xmas%20Login/)
 - [Fushigi Crawler](./20260104_Fushigi%20Crawler/)
 - [secret-table](./20260108_secret-table/)
+- [Animal Viewer](./20260122_Animal%20Viewer/)
 
 ## Misc
 - [cat3](./20251224_cat3/)
