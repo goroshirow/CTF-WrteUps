@@ -28,3 +28,4 @@
 - [108](./20251231_108/)
 - [jailiaj](./20260106_jailiaj/)
 - [dockerstack](./20260121_dockerstack/)
+- [Bashrunner](./20260123_Bashrunner/)
