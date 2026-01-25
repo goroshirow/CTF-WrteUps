@@ -23,6 +23,7 @@
 - [Fushigi Crawler](./20260104_Fushigi%20Crawler/)
 - [secret-table](./20260108_secret-table/)
 - [Animal Viewer](./20260122_Animal%20Viewer/)
+- [Stateless Auth](./20260125_Stateless%20Auth/)
 
 ## Misc
 - [cat3](./20251224_cat3/)
