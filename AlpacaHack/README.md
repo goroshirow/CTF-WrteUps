@@ -31,3 +31,4 @@
 - [jailiaj](./20260106_jailiaj/)
 - [dockerstack](./20260121_dockerstack/)
 - [Bashrunner](./20260123_Bashrunner/)
+- [git gc](./20260126_git%20gc/)
