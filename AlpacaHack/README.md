@@ -6,6 +6,7 @@
 - [super-tomato](./20260102_super-tomato/)
 - [Square RSA](./20260107_Square%20RSA/)
 - [Paca Paca Authenticator](./20260124_Paca%20Paca%20Authenticator/)
+- [ToyPQC](./20260127_ToyPQC/)
 
 ## Pwn
 - [simpleoverwrite](./20251227_simpleoverwrite/)
