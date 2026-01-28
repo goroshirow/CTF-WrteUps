@@ -25,6 +25,7 @@
 - [secret-table](./20260108_secret-table/)
 - [Animal Viewer](./20260122_Animal%20Viewer/)
 - [Stateless Auth](./20260125_Stateless%20Auth/)
+- [No JS](./20260128_No%20JS/)
 
 ## Misc
 - [cat3](./20251224_cat3/)
